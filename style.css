@@ -6,7 +6,7 @@ body {
   color: #2a2a2a;
 }
 
-.logo {
+img {
   width: 20%;
   display: block;
 }
@@ -172,8 +172,4 @@ footer {
   background-color: #3d6e47;
   color: black;
   font-family: 'Kanit', sans-serif;
-}
-
-.fotos {
-    width: 30%;
 }
