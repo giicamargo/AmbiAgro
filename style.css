@@ -125,6 +125,10 @@ h1 {
   margin-left: 20px;
 }
 
+.lixos{
+  width: 100%;
+}
+
 section {
   border-bottom: 1px dotted gray;
 }
